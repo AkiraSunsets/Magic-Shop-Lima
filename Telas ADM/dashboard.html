@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Magic Shop</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../banco de imagens - Magic Shop/Elementos - Site/Magic-Shop-logo.png" />
+
+    <!-- CSS principal -->
+    <link rel="stylesheet" href="../style/style.css" />
+
+    <!-- Fontes do Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Delius&family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poiret+One&display=swap"
+        rel="stylesheet" />
+
+    <!-- Ícones do Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
+</head>
+
+<body>
+    <section class="container-dashboard">
+        <aside class="painel-lateral">
+            <h1 class="titulo-dashboard">Dashboard</h1>
+            <nav>
+                <ul class="menu-lateral">
+                    <li class="item-ativo"><i class="bi bi-house"></i> Dashboard</li>
+                    <li><i class="bi bi-grid"></i><a href="../Telas ADM/editar-categorias.html">Categorias</a></li>
+                    <li><i class="bi bi-box-seam"></i><a href="../Telas ADM/gerenciar-produtos.html">Gerenciar produtos</a></li>
+                    <li><i class="bi bi-gear"></i> Configurações</li>
+                    <li><i class="bi bi-box-arrow-right"></i> Sair</li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="conteudo-dashboard">
+            <header class="cabecalho-dashboard">
+                <h2>Seja bem vinda, Akira!</h2>
+                <p>Veja os dados da sua loja!</p>
+            </header>
+
+            <section class="secao-graficos">
+                <figure class="grafico-barra" aria-label="Gráfico de barras de desempenho" role="img">
+                    <ul class="y-axis" aria-hidden="true">
+                        <li>1000</li>
+                        <li>750</li>
+                        <li>500</li>
+                        <li>250</li>
+                        <li>0</li>
+                    </ul>
+
+                    <ul class="bars" role="list" aria-label="Barras do gráfico">
+                        <li>
+                            <div class="bar" style="height: 100%"><span class="value">1000</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 75%"><span class="value">750</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 50%"><span class="value">500</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 25%"><span class="value">250</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 0%"><span class="value">0</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 0%"><span class="value">0</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 1%"><span class="value">1</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 2%"><span class="value">2</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 3%"><span class="value">3</span></div>
+                        </li>
+                        <li>
+                            <div class="bar" style="height: 4%"><span class="value">4</span></div>
+                        </li>
+                    </ul>
+
+                    <figcaption>
+                        <ol class="x-axis" role="list" aria-hidden="true">
+                            <li>0</li>
+                            <li>1</li>
+                            <li>2</li>
+                            <li>3</li>
+                            <li>4</li>
+                            <li>5</li>
+                            <li>6</li>
+                            <li>7</li>
+                            <li>8</li>
+                            <li>9</li>
+                        </ol>
+                    </figcaption>
+                </figure>
+
+                <figure class="grafico-linha">
+                    <img src="../banco de imagens - Magic Shop/Graficos/grafico-linha.png"
+                        alt="Gráfico de linha com dados semanais" />
+                    <figcaption>
+                        <strong>Active Users</strong>
+                        <p>last week</p>
+                        <ul>
+                            <li><i class="bi bi-people"></i> 32.984 usuários</li>
+                            <li><i class="bi bi-mouse"></i> 2,42m cliques</li>
+                            <li><i class="bi bi-cart"></i> 2.400$ em vendas</li>
+                            <li><i class="bi bi-box"></i> 30 itens</li>
+                        </ul>
+                    </figcaption>
+                </figure>
+            </section>
+
+            <section class="secao-cards">
+                <article class="card-adm card-violeta">
+                    <h3>12.6K</h3>
+                    <p>Visualizadores</p>
+                </article>
+                <article class="card-adm card-rosa">
+                    <h3>30K</h3>
+                    <p>Vendas totais</p>
+                </article>
+                <article class="card-adm card-laranja">
+                    <h3>100</h3>
+                    <p>Compras por minuto</p>
+                </article>
+            </section>
+        </main>
+    </section>
+
+
+
+    <footer class="rodape-usuario-unico">
+        <img src="../banco de imagens - Magic Shop/Elementos - Site/kuromi-profile.jpg" alt="Avatar de Akira" />
+        <div>
+            <strong>Akira Sunsets</strong>
+            <br />
+            <small>Akirasunsets@magicshop.com</small>
+        </div>
+    </footer>
+</body>
+
+</html>

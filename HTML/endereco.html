@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Magic Shop</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../banco de imagens - Magic Shop/Elementos - Site/Magic-Shop-logo.png" />
+
+    <!-- CSS principal -->
+    <link rel="stylesheet" href="../style/style.css" />
+
+    <!-- Fontes do Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Delius&family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poiret+One&display=swap" rel="stylesheet" />
+
+    <!-- Ícones do Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
+</head>
+
+
+<body>
+    <!------------Header----------------->
+    <header>
+        <h1>
+            Magic Shop
+        </h1>
+        <img src="../banco de imagens - Magic Shop/Elementos - Site/Magic-Shop-logo 1.png" alt="coelho fofinho branco">
+        <form class="pesquisar">
+            <input type="text" name="pesquisa" id="pesquisa" placeholder="Faça sua pesquisa" maxlength="200"  />
+            <button type="submit">
+                Pesquisar
+            </button>
+        </form>
+        <ul>
+            <li>
+                <a href="../HTML/carrinho.html" title="carrinho">
+                    <i class="bi bi-cart3"></i>
+                </a>
+            </li>
+            <li>
+                <a href="../HTML/profile.html" title="meu perfil">
+                    <i class="bi bi-person-circle"></i>
+                </a>
+            </li>
+        </ul>
+    </header>
+    <!------------------Nav-bar---------->
+    <nav class="nav-bar">
+        <ul>
+            <li>
+                <a href="../HTML/home.html">
+                    Home
+                </a>
+            </li>
+            <li>
+                <a href="../HTML/produtos.html">
+                    Produtos
+                </a>
+            </li>
+            <li>
+                <a href="../HTML/home.html">
+                    Mais Vendidos
+                </a>
+            </li>
+            <li>
+                <a href="../HTML/sobre-nos.html">
+                    Sobre Nós
+                </a>
+            </li>
+            <li>
+                <a href="../HTML/contate-nos.html">
+                    Contatos
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <section class="finalizar-compras">
+
+
+            <form class="finalizacao">
+
+                <h2>
+                    Finalizar Compra
+                </h2>
+
+
+                <p>
+                    Insira seu endereço:
+                </p>
+
+                <hr class="line">
+
+
+
+                <label for="CEP">
+                    CEP:
+                </label>
+                <input type="number" id="CEP" name="CEP" placeholder="Digite seu CEP. Ex: 12345678." required />
+
+                <label for="adress">
+                    Endereço:
+                </label>
+                <input type="text" id="adress" name="adress"
+                    placeholder="Digite o nome de sua rua. Ex: Rua da Hello Kitty." required />
+
+                <label for="number">
+                    Número:
+                </label>
+                <input type="number" id="number" name="number" placeholder="Digite o número de sua residência. Ex: 123."
+                    required />
+
+                <label for="bairro">
+                    Bairro:
+                </label>
+                <input type="text" id="bairro" name="bairro"
+                    placeholder="Digite o nome do seu bairro. Ex: Jardim dos Sonhos." required />
+
+                <label for="cidade">
+                    Cidade:
+                </label>
+                <input type="text" id="cidade" name="cidade" placeholder="Digite o nome da sua cidade. Ex: Dreamlandia."
+                    required />
+
+                <label for="estado">
+                    Estado:
+                </label>
+                <input type="text" id="estado" name="estado"
+                    placeholder="Digite o nome do seu estado. Ex: Kuromi State." required />
+
+            </form>
+
+            <aside class="resumo-compras">
+                <p>Subtotal
+                    <span>
+                        R$243,60
+                    </span>
+                </p>
+
+                <p>
+                    Entrega
+                    <span>
+                        R$10,00
+                    </span>
+                </p>
+
+                <p class="desconto">
+                    Desconto
+                    <span>
+                        - R$10,00
+                    </span>
+                </p>
+
+                <p class="total">
+                    Total
+                    <span>
+                        R$243,60
+                    </span>
+                </p>
+
+                <button class="finalizar-compra-button"><a href="../HTML/compra-concluida.html">
+                        FINALIZAR COMPRA
+                    </a>
+                </button>
+            </aside>
+        </section>
+
+    </main>
+    <footer class="all-pages-footer">
+        <p>
+            Magic Shop © 2025. Todos os direitos são reservados.
+        </p>
+    </footer>
+</body>
+
+</html>
