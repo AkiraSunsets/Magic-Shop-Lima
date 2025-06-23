@@ -1,0 +1,64 @@
+Nome: Ketlyn Lorrayne Niza de Araújo
+
+1. Público-alvo e Mini descrição da Magic Shop
+Público-alvo:
+A Magic Shop é voltada para pessoas que amam o universo encantado dos personagens da Sanrio®. Em especial, meninas, jovens e mulheres de 13 a 30 anos que cresceram (ou ainda vivem!) rodeadas por pelúcias, cores suaves, nostalgia e muita fofura.
+Esse público é apaixonado por personagens como Hello Kitty™, Kuromi™, My Melody™ e companhia. Muitas delas colecionam itens, assistem conteúdos relacionados à cultura pop japonesa, e buscam produtos que tragam aquele quentinho no coração — seja para uso pessoal ou para presentear alguém especial.
+Mini descrição da loja:
+A Magic Shop é uma loja virtual cheia de encanto, feita para quem ama pelúcias fofas, personagens icônicos e aquele toque de nostalgia mágica. Aqui, os fãs da Sanrio® encontram produtos oficiais com muito carinho, em um site bonito, organizado e feito pra ser fácil de usar tanto no celular quanto no computador.
+
+
+
+
+2. Funcionalidades Básicas
+Funcionalidades do Cliente (usuário final):
+•	Navegação por categorias de personagens
+O cliente pode navegar pela loja a partir das categorias dos personagens mais famosos da Sanrio®, como Kuromi, My Melody, Hello Kitty, entre outros. Cada categoria exibe apenas os produtos relacionados àquele personagem, facilitando a busca e deixando a experiência mais personalizada e divertida.
+•	Visualização de produtos com foto, descrição e preço
+Ao acessar uma categoria ou destaque da loja, o usuário vê cards de produtos com imagem, nome e valor. Ao clicar, é direcionado para uma página específica do produto, onde encontra uma descrição detalhada, tamanho, materiais e outras informações úteis.
+•	Adicionar itens ao carrinho
+Cada produto pode ser adicionado ao carrinho com um clique. O botão de “Adicionar ao carrinho” é visualmente destacado e fácil de encontrar. O usuário pode adicionar quantos itens quiser e ver o carrinho a qualquer momento.
+•	Aplicar cupom de desconto e simular o frete
+Dentro do carrinho, o cliente pode inserir um código promocional para obter desconto. Além disso, pode informar seu CEP para simular o valor do frete e o prazo de entrega, tudo em tempo real, com um layout visual claro e direto.
+•	Escolha de forma de pagamento
+Na etapa de pagamento, o cliente pode escolher entre Pix, Cartão de Crédito ou Boleto Bancário. A interface é ilustrativa e intuitiva, com ícones que ajudam a identificar cada forma de pagamento. O processo é seguro, simples e rápido.
+•	Finalização de pedido com confirmação
+Após preencher os dados de pagamento, o cliente finaliza a compra e visualiza uma tela de confirmação com os detalhes do pedido: produtos comprados, valor total, forma de pagamento e previsão de entrega. Tudo é apresentado de forma organizada, com um agradecimento amigável da loja.
+
+Funcionalidades do Administrador:
+•	Cadastrar novos produtos
+No painel administrativo, o responsável pode acessar uma interface exclusiva para adicionar novos produtos. Isso inclui nome, descrição, imagens, categoria, cor, preço e estoque. O sistema foi projetado para ser rápido e intuitivo, mesmo para quem não tem muita familiaridade com tecnologia.
+•	Criar, editar ou excluir categorias
+Além dos produtos, o administrador pode organizar as categorias da loja — como “Hello Kitty”, “Cinnamoroll” e “Lançamentos”. É possível adicionar novas categorias, renomeá-las ou até removê-las quando necessário. A interface conta com ícones visuais e uma listagem clara.
+•	🖱️ Organização visual com sistema de drag & drop (arrastar e soltar)
+Dentro da área de categorias, os itens podem ser organizados manualmente com o recurso de arrastar e soltar. Isso dá mais liberdade para o administrador definir a ordem em que os produtos ou categorias aparecem no site, de forma totalmente visual e sem complicação.
+
+3. Identidade visual e o porquê de cada escolha 
+A identidade visual da Magic Shop foi pensada para transmitir aconchego, delicadeza e aquele toque mágico que só um produto afetivo consegue trazer. A ideia é que a pessoa sinta que está entrando em um lugar especial, como se fosse abraçada por uma pelúcia.
+Usamos referências do estilo kawaii (que significa “fofo” em japonês), mas sem deixar a interface infantil ou poluída. O resultado é um visual leve, funcional e com personalidade própria.
+Cores:
+Cada personagem tem sua cor marcante. Por isso, o site usa tons que refletem essa identidade, como:
+•	Rosa vibrante (My Melody) – presente nos botões e detalhes afetivos da loja
+•	Lilás escuro (Kuromi) – usado em botões personalizados (#46295A), trazendo um visual estiloso e misterioso
+•	Azul profundo (Cinnamoroll) – no botão exclusivo de Cinnamoroll (#120A8F), remetendo ao céu e à calma do personagem
+•	Vermelho (Hello Kitty) – aparece nos destaques e elementos visuais que remetem à personagem
+•	Amarelo (Pompompurin) – usado como cor complementar em cards e etiquetas
+Além das cores dos personagens, a identidade visual é sustentada por uma paleta base suave e funcional:
+•	Botões principais: #BC255C – rosa intenso, utilizado em botões padrão da loja
+•	Navegação e rodapé: #BC4069 – tom elegante de rosa escuro, aplicado no menu lateral e no rodapé
+•	Fundo geral: #FFFFFF – branco, que traz leveza e destaca os elementos visuais
+•	Fundo das seções: #FFC0CB – rosa claro, usado para organizar os blocos de conteúdo
+•	Background dos rótulos/labels: #FEE9E7 – cor suave que destaca etiquetas e categorias com delicadeza
+Essas cores aparecem nos botões, etiquetas, painéis, cards e áreas de destaque, ajudando a criar uma experiência mágica e coesa para o usuário.
+________________________________________
+Fontes:
+•	Títulos com fontes suaves e decorativas, como Alex Brush ou Great Vibes, que dão um toque romântico e delicado às partes principais
+•	Textos com Montserrat, uma fonte moderna e legível, que mantém a experiência visual leve e acessível em qualquer tela
+Essa combinação reforça a proposta encantadora da loja, sem comprometer a leitura ou a usabilidade.
+________________________________________
+Layout:
+•	A área do cliente é leve, com rolagem horizontal, cards bem distribuídos e categorias visuais com ícones e cores específicas. Tudo foi projetado para funcionar bem tanto em telas grandes quanto no celular, sem perder a fofura.
+•	O painel do administrador é lateral, mais técnico, mas ainda dentro da identidade visual da loja. Usa a cor rosa escuro #BC4069 como base, e mantém ícones bem definidos para facilitar a gestão de produtos, categorias e pedidos — mesmo pra quem não tem tanta familiaridade com tecnologia.
+
+
+
