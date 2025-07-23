@@ -7,9 +7,6 @@ Esse público é apaixonado por personagens como Hello Kitty™, Kuromi™, My M
 Mini descrição da loja:
 A Magic Shop é uma loja virtual cheia de encanto, feita para quem ama pelúcias fofas, personagens icônicos e aquele toque de nostalgia mágica. Aqui, os fãs da Sanrio® encontram produtos oficiais com muito carinho, em um site bonito, organizado e feito pra ser fácil de usar tanto no celular quanto no computador.
 
-
-
-
 2. Funcionalidades Básicas
 Funcionalidades do Cliente (usuário final):
 •	Navegação por categorias de personagens
