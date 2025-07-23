@@ -59,4 +59,72 @@ A ideia era fazer o usuário se sentir entrando num universo de pelúcias vivas 
 
 ## 🧱 Estrutura do Projeto
 
+```bash
+MAGIC-SHOP-LIMA-MAIN/
+├── banco de imagens - Magic Shop/
+│   ├── Cinnamoroll/
+│   ├── Elementos - Site/
+│   ├── Hello Kitty/
+│   ├── icones/
+│   ├── Kuromi/
+│   ├── My Melody/
+│   ├── personagens/
+│   └── Pompompurin/
+│
+├── Certificações/
+│   ├── server.crt
+│   ├── server.key
+│   └── server.py  # (simula servidor local com HTTPS)
+│
+├── HTML/
+│   ├── cadastro.html
+│   ├── carrinho.html
+│   ├── compra-concluida.html
+│   ├── contate-nos.html
+│   ├── desc-*.html  # páginas individuais de descrição por personagem
+│   ├── editar-perfil.html
+│   ├── endereco.html
+│   ├── finalizar-compra.html
+│   ├── home.html
+│   ├── index.html
+│   ├── produtos.html
+│   ├── profile.html
+│   └── sobre-nos.html
+│
+├── Telas ADM/
+│   ├── dashboard.html
+│   ├── editar-categorias.html
+│   ├── gerenciar-produtos.html
+│   └── index.html
+│
+├── style/
+│   └── style.css
+│
+└── README.md  # você está aqui!
+
+---
+
+## 🚧 O que ainda falta?
+
+Esse projeto é um **protótipo de front-end**, mas pode futuramente evoluir para um sistema completo.  
+Possibilidades de melhorias:
+
+- 💻 Responsividade total (mobile first)
+- ⚙️ Inclusão de interações com JavaScript (como carrinho dinâmico)
+- 🛠️ Conexão com backend e banco de dados
+- 🎁 Página de favoritos
+- 🌙 Modo escuro
+
+---
+
+## 💖 Desenvolvido por
+
+**Ketlyn Lorrayne Niza de Araújo**  
+Apaixonada por transformar ideias fofas em interfaces encantadoras.  
+Esse projeto é fruto de estudos, criatividade e muita vontade de criar algo que abrace quem visita.
+
+---
+
+> *"A tecnologia também pode ser delicada. A Magic Shop é a prova disso."* 🌸✨  
+
 
