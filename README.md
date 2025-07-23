@@ -7,8 +7,9 @@ Feita com HTML, CSS e muito carinho, a Magic Shop é um projeto visual e conceit
 
 ## 🌈 Sobre o Projeto
 
-A **Magic Shop** é uma loja fictícia, voltada para meninas, jovens e mulheres entre 13 e 30 anos que cresceram rodeadas por pelúcias, cores suaves e o jeitinho kawaii da cultura pop japonesa.  
-Esse protótipo foi desenvolvido com foco em **apresentação visual**, **navegação simples** e **organização de conteúdo** — como se fosse o layout de uma loja real, mas ainda sem backend ou interações dinâmicas.
+A **Magic Shop** é um projeto conceitual de loja virtual, voltado para um público majoritariamente feminino, entre 13 e 30 anos, que se identifica com a estética kawaii e a cultura pop japonesa. Inspirada no universo encantado da Sanrio®, a proposta atende especialmente fãs de personagens como Hello Kitty™, Kuromi™, My Melody™ e Cinnamoroll™.
+
+Este protótipo foi desenvolvido com foco em apresentação visual, navegação intuitiva e organização de conteúdo, simulando a experiência de uma loja online real. Ainda não conta com funcionalidades dinâmicas ou integração com backend, sendo uma base estática construída em HTML e CSS.
 
 ---
 
