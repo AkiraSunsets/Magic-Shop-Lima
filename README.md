@@ -59,6 +59,7 @@ A ideia era fazer o usuário se sentir entrando num universo de pelúcias vivas 
 
 ## 🧱 Estrutura do Projeto
 
+```bash
 MAGIC-SHOP-LIMA-MAIN/
 ├── banco de imagens - Magic Shop/
 │   ├── Cinnamoroll/
@@ -73,14 +74,14 @@ MAGIC-SHOP-LIMA-MAIN/
 ├── Certificações/
 │   ├── server.crt
 │   ├── server.key
-│   └── server.py
+│   └── server.py  # (simula servidor local com HTTPS)
 │
 ├── HTML/
 │   ├── cadastro.html
 │   ├── carrinho.html
 │   ├── compra-concluida.html
 │   ├── contate-nos.html
-│   ├── desc-*.html
+│   ├── desc-*.html  # páginas individuais de descrição por personagem
 │   ├── editar-perfil.html
 │   ├── endereco.html
 │   ├── finalizar-compra.html
@@ -99,8 +100,8 @@ MAGIC-SHOP-LIMA-MAIN/
 ├── style/
 │   └── style.css
 │
-└── README.md
-
+└── README.md  # você está aqui!
+```
 ---
 
 ## 🚧 O que ainda falta?
